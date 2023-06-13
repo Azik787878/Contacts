@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://i.pinimg.com/564x/86/88/42/8688425148de06fd2c413d2d0780d910.jpg);
+}
+
+.container {
+  text-align: center;
+}
+#name {
+  width: 70px;
+  height: 30px;
+}
+#imageUrl {
+  width: 90px;
+  height: 30px;
+}
+#phone {
+  width: 100px;
+  height: 30px;
+}
+#btn_size {
+  height: 40px;
+}
